@@ -125,7 +125,16 @@
 	font-size: 20px;
 	vertical-align: top;
 	}
-	.push-header-down {
-		margin-top: 40px;
+	
+}
+
+.push-header-down {
+		margin-top: 50px;
 	}
+	
+@media (min-width: 1600px) {
+	.push-header-down {
+		margin-top: 7%;
+	}
+	
 }
